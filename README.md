@@ -1,11 +1,12 @@
 Hi there, I'm Yassen Ryan 👋
-Aspiring Full-Stack Developer & QA Enthusiast
+Aspiring QA Enthusiast
 🚀 Welcome to my GitHub! I build projects in Java, C++, and SQL.
 🔭 Current Focus
 - Practicing Java & C++ projects
 - Exploring backend systems
 - Learning software testing and QA processes
 📂 Featured Repositories
+
 1️⃣ Student-Management-System  
 💻 Java console application for managing student records.
 
