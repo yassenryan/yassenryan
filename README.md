@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there, I'm Yassen Ryan 👋
+Aspiring Full-Stack Developer & QA Enthusiast
+🚀 Welcome to my GitHub! I build projects in Java, C++, and SQL.
+🔭 Current Focus
+- Practicing Java & C++ projects
+- Exploring backend systems
+- Learning software testing and QA processes
+📂 Featured Repositories
+1️⃣ Student-Management-System  
+💻 Java console application for managing student records.
 
-<!--
-**yassenryan/yassenryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2️⃣ Bank-Management-System  
+💻 Java console application simulating a banking system.
 
-Here are some ideas to get you started:
+3️⃣ Data-Structure-and-Algorithm  
+💻 Library of C++ data structures and algorithms.
+🛠 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C++, Java, SQL  
+**Concepts:** OOP, Data Structures, Algorithms, Database Systems  
+**Libraries/Tools:** STL, Git, GitHub  
+**Soft Skills:** Problem-solving, attention to detail, teamwork
+📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/yassen-ryan-799899239) | [Email](mailto:yassenryan08@gmail.com) | [GitHub](https://github.com/yassenryan)
